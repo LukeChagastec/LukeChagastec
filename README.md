@@ -46,15 +46,6 @@ Aqui estão algumas áreas onde atuo. Clique para ver meus repositórios:
 
 ---
 
-### 📈 Minha Atividade
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=LukeChagastec&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukeChagastec&layout=compact&theme=dracula&hide_border=true&langs_count=6" height="150" alt="languages graph" />
-</div>
-
----
-
 <div align="left">
   <a href="[https://linkedin.com/in/SEU_USUARIO_AQUI](https://www.linkedin.com/in/lucas-jos%C3%A9-corr%C3%AAa-chagas-511a111b/)">
     <img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
