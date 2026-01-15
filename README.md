@@ -18,6 +18,7 @@ Além do core corporativo, possuo experiência com **Node.js** (Back e Front), *
 <img src="https://img.shields.io/badge/Lazarus-3465A4?style=for-the-badge&logo=lazarus&logoColor=white" />
 <img src="https://img.shields.io/badge/TOTVS_Protheus-00517F?style=for-the-badge" />
 <img src="https://img.shields.io/badge/AdvPL-Language-gray?style=for-the-badge" />
+<img src="https://img.shields.io/badge/TLPP-Language-red?style=for-the-badge" />
 
 **Web Ecosystem**
 <br>
@@ -55,10 +56,10 @@ Aqui estão algumas áreas onde atuo. Clique para ver meus repositórios:
 ---
 
 <div align="left">
-  <a href="https://linkedin.com/in/SEU_USUARIO_AQUI">
+  <a href="[https://linkedin.com/in/SEU_USUARIO_AQUI](https://www.linkedin.com/in/lucas-jos%C3%A9-corr%C3%AAa-chagas-511a111b/)">
     <img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:SEU_EMAIL_AQUI">
+  <a href="mailto:lucas@chagastec.page">
     <img src="https://img.shields.io/badge/Email-Fale_Comigo-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
