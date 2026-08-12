@@ -41,8 +41,11 @@ Além do core corporativo, possuo experiência com **Node.js** (Back e Front), *
 ### 📂 Projetos Principais
 
 Aqui estão algumas áreas onde atuo. Clique para ver meus repositórios:
-* **🏢 [Ferramentas TOTVS / AdvPL](https://github.com/LukeChagastec?tab=repositories&q=advpl)**
-    <br>Utilitários e rotinas customizadas para otimização de processos no ERP Protheus.
+* **🏢 [PoUi Project Creator](https://github.com/LukeChagastec/poui-project-creator)**
+    <br>Facilitador de criação de Projetos Poui.
+
+* **🏢 [Powerversion](https://github.com/LukeChagastec/powerversion)**
+    <br>Skill facilitadora para geração de commits em branches locais.
 
 ---
 
